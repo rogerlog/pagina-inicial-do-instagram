@@ -20,3 +20,7 @@ To-do
 
 ![](img-instagramoficial.png)
 
+------
+
+[^Acesso]: :children_crossing: Projeto disponível em: https://github.com/rogerlog/pagina-inicial-do-instagram.git
+
