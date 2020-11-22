@@ -18,5 +18,5 @@ To-do
 
 ##### Imagem da página Inicial do Instagram em 21/11/2020
 
-![](/home/rlogu/Área de Trabalho/Screenshot from 2020-11-22 13-55-36.png)
+![](img-instagramoficial.png)
 
